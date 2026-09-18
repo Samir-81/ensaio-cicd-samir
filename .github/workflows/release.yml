@@ -1,4 +1,4 @@
-name: Release and Deploy Workflow - atualizado
+name: Release and Deploy Workflow - atualizado 2
 
 on:
   push:
